@@ -13,6 +13,7 @@
 		E88CAA3E247EE30900B1BDF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E88CAA3C247EE30900B1BDF8 /* Main.storyboard */; };
 		E88CAA40247EE30A00B1BDF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E88CAA3F247EE30A00B1BDF8 /* Assets.xcassets */; };
 		E88CAA43247EE30A00B1BDF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E88CAA41247EE30A00B1BDF8 /* LaunchScreen.storyboard */; };
+		E88CAA4B247EE52F00B1BDF8 /* DateCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88CAA4A247EE52F00B1BDF8 /* DateCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E88CAA3F247EE30A00B1BDF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E88CAA42247EE30A00B1BDF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E88CAA44247EE30A00B1BDF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E88CAA4A247EE52F00B1BDF8 /* DateCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E88CAA36247EE30900B1BDF8 /* AppDelegate.swift */,
 				E88CAA38247EE30900B1BDF8 /* SceneDelegate.swift */,
 				E88CAA3A247EE30900B1BDF8 /* ViewController.swift */,
+				E88CAA4A247EE52F00B1BDF8 /* DateCell.swift */,
 				E88CAA3C247EE30900B1BDF8 /* Main.storyboard */,
 				E88CAA3F247EE30A00B1BDF8 /* Assets.xcassets */,
 				E88CAA41247EE30A00B1BDF8 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				E88CAA3B247EE30900B1BDF8 /* ViewController.swift in Sources */,
 				E88CAA37247EE30900B1BDF8 /* AppDelegate.swift in Sources */,
 				E88CAA39247EE30900B1BDF8 /* SceneDelegate.swift in Sources */,
+				E88CAA4B247EE52F00B1BDF8 /* DateCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
